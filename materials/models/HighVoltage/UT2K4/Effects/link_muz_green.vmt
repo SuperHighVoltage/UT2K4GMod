@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/HighVoltage/UT2K4/Effects/link_muz_green"
-
-	"$translucent" 1
-	"$nocull" 1
-
-	"$model" 1
-}

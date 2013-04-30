@@ -1,9 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"vgui/UT2K4/HUD_Bar1"
-	"$ignorez"		1
-	"$vertexcolor" 		1
-	"$vertexalpha" 		1
-	"$nolod" 			1
-	"$translucent"		"1"
-} 

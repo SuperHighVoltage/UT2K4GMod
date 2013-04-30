@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "VGUI/entities/UT2K4_Rocket_launcher"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}
