@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/HighVoltage/UT2K4/Weapons/LinkPowerGreen"
+
+	"$envmap" "env_cubemap"
+	"$envmapfrensel" "1"
+	"$envmaptint" "[.2 .2 .2]"
+
+	"$model" 1
+
+    "Proxies"
+    {
+	TextureScroll
+	{
+		texturescrollvar $baseTextureTransform
+		texturescrollrate 0.5
+		texturescrollangle 170.00
+	}
+    }	
+}

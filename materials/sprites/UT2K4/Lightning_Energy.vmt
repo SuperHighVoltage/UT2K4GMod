@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"sprites/UT2K4/Lightning_Energy"
+//	"$basetexturescale "	"1"
+	"$translucent" "1"
+
+	"$model" 1
+
+       "Proxies"
+       {
+	TextureScroll
+	{
+		"texturescrollvar" "$basetexturetransform"
+		"texturescrollrate" "0.6"
+		"texturescrollangle" "45"
+	}
+       }	
+}

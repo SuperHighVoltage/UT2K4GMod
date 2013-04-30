@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/UT2K4/Lightning_bolt_end"
+//	"$nocull"			1
+//	"$MinLight"		1
+//	"$MaxLight"		1
+	"$additive"		1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

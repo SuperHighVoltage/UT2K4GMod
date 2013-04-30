@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/HighVoltage/UT2K4/Weapons/Lightning_bolt"
+	"$nocull"			1
+	"$MinLight"		1
+	"$MaxLight"		1
+	"$additive"		1
+
+
+        "Proxies"
+        {
+            "TextureScroll"
+            {
+                "textureScrollVar" "$basetexturetransform"
+                "textureScrollRate" 10.0
+                "textureScrollAngle" 90
+            }
+        }
+}

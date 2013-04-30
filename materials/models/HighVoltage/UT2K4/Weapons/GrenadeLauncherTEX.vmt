@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/HighVoltage/UT2K4/Weapons/GrenadeLauncherTEX"
+
+	"$nocull" "1"
+
+	"$phong" "1" //this turns on the phong effect
+	"$phongboost" "0.05" //use this to increase/decrease the highlight intensity 
+	"$phongfresnelranges" "[.3 .5 1]" //this are the highlight intensities at different incidence angles from the camera (first value is perpendicular to the camera and the 3rd value is away from the camera)
+	"$basemapalphaphongmask" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmapfrensel" "1"
+	"$envmaptint" "[.4 .4 .4]"
+	"$basealphaenvmapmask" 1
+
+	"360?$color2" "[ 0.6 0.6 0.6 ]"
+}

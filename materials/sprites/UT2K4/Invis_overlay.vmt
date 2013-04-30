@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"sprites/UT2K4/Invis_overlay"
+	"$basetexturescale "	".6"
+	"$translucent" "1"
+	"$model" 1
+
+       "Proxies"
+       {
+	TextureScroll
+	{
+		"texturescrollvar" "$basetexturetransform"
+		"texturescrollrate" "0.3"
+		"texturescrollangle" "45"
+	}
+       }	
+}

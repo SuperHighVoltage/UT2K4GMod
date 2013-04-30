@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/HighVoltage/UT2K4/Weapons/FlakTex1"
+	"$translucent" "1"
+}

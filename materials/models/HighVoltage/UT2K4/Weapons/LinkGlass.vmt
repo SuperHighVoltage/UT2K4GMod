@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/HighVoltage/UT2K4/Weapons/LinkGlass"
+	"$envmap" "env_cubemap"
+
+	"$envmapmask" "models/HighVoltage/UT2K4/Weapons/LinkGlass_mask"
+	"$translucent" 1
+	"$nocull" 1
+}
